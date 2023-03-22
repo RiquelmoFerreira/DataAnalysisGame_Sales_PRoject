@@ -23,6 +23,7 @@ The project is an analysis of the number of games sold on the Playstation 4 plat
 
 # Run the Project
 Prerequisites:
+- Python 3.11.0 or superior
 - Jupyter Notebook
 - Numpy
 - Pandas
