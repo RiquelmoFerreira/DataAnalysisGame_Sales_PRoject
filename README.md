@@ -34,6 +34,7 @@ Prerequisites:
 - Pandas
 - Seaborn
 - Matplotlib
+- Power Point
 
 # Author
 Riquelmo Afonso Avelar Ferreira
@@ -76,6 +77,7 @@ Pré-Requisitos:
 - Pandas
 - Seaborn
 - Matplotlib
+- Power Point
 
 # Autor
 Riquelmo Afonso Avelar Ferreira
